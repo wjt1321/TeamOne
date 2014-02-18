@@ -1,0 +1,24 @@
+This week we each worked on reading some of the references we had in our proposal, as we had only read a subset.
+
+Additionally, we had a meeting and discussed which file formats we were going to investigate and how to divide the work over the next week or so.
+
+The file formats we chose to start with were divided into three categories:
+
+Images: .bmp, .png, .jpg
+
+Text/Word Processing: .txt, .pdf, .doc, .docx
+
+Executables: We are going to look into Notepad, MS Paint, Calculator, and a custom basic executable we design with very basic functionality.
+
+We also discussed the possibility of looking into .wav sound files and somewhat equivalent Linux programs to the executables we chose, but decided that we would start with the 7 file formats and 4 executables and add more if time permits.
+
+
+We then discussed what needed to be done in the next week and divided the work as follows:
+
+Lauren: Will look into the details of the .bmp file format and try to understand how everything is set up.
+
+Adam: Do the same for .png
+
+John: Do the same for .jpg
+
+Everyone: Will look into details of the text/word processing formats.  Begin thinking about classification of errors, including how to classify the individual file formats.  Write up something about the file formats investigated.
