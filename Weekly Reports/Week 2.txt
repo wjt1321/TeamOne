@@ -1,0 +1,16 @@
+This week we worked mostly on our file formats.
+Everyone looked at the document file formats, but we each looked at one individual picture format to share with the rest of the group.
+We also discussed some of the decisions we will have to make in regards to our experiment's procedure including what number of bits to
+flip, what we would like our bit-flipping program to do, and how we will rate the files after flipping bits.
+
+In addition to what is above, we did the following:
+John: Looked at the JPEG file format and posted some info for the others to see.
+
+Adam: Looked at the PNG file format and gathered info to share with the group (not posted yet).
+
+Lauren: Looked at the BMP file format and posted some info for the others to see. Also created a first draft of some of the procedural
+questions/answers that she brought to the meeting (will be posted later).
+
+
+Next week we are going to focus on picking specific files to experiment on, finding out if there is any software available to 
+help us evaluate what happens to files when the bits flip, and beginning work on the bit-flipping program.
