@@ -1,1 +1,1 @@
-FOR %%i in (1,2,3) DO FOR %%j in (1,2,3,4,5,6,7,8,9,0) DO compare %1.%2 %1%%i-%%j.%2 compare%%i-%%j.%2
+FOR %%i in (1,2,3) DO FOR %%j in (1,2,3,4,5,6,7,8,9,0) DO compare %1.%2 %1%%i_%%j.%2 compare%%i_%%j.%2
