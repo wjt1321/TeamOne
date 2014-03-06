@@ -1,0 +1,6 @@
+This week we decided that we would flip the following numbers of bits: 1-8, 16, 32, 64, 128, 256 340, 512, 1024.  We also officially set the programs to check some of the file types.  Next week we should hopefully have the bit-flipping software ready to go (or very close), the checks ready to go, the beginnings of a report, and, possibly, run the bit flips on some of the files.
+
+As individuals, this week we did the following:
+Adam - Did some work on the bit-flipping program, but was mostly sidelined due to serious health issues.
+Lauren - Gathered/created the test files for images and text
+John - Investigated hex editors to determine what would be the best one to use if we had to compare files at that level (HxD was decided upon) and investigated comparing images with software (ImageMagick and a custom batch file were decided upon).
