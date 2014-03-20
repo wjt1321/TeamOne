@@ -1,0 +1,6 @@
+This week we all worked on individual pieces.
+
+As individuals, this week we did the following:
+Adam - Basically completed the bit-flipping program (maybe minor tweaks left, if anything).  Tested on some of the images.
+Lauren - Began work on an intro/background section for the paper
+John - More minor changes to imagecompare file, put more test files up,  wrote a basic program to test in the .exe testing phase.
