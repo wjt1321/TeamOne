@@ -1,0 +1,9 @@
+If you want to use
+compile to exe
+
+then to execute
+	RandomBitFlipper.exe quad.png
+
+quad.png must be in a folder, that contains a subfolder called "output"
+thats pretty much it.  It will overwrite files automatically if run multiple times.
+
