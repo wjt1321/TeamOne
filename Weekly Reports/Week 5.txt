@@ -1,0 +1,5 @@
+This week the bit flipper was finished and we started working on testing/classifying the flipped files.
+
+John - Finished JPEG, began work on BMP.
+Lauren - Began work on the text files.
+Adam - Completed bit flipper, ran bit flipper, began working on PNG files.
