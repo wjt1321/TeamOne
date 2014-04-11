@@ -1,0 +1,5 @@
+This week we did the following:
+
+Lauren - More work on the beginnings of the paper, finished scoring the text documents
+John - Finished scoring JPG/GIF/BMP pictures
+Adam - continued scoring PNG/EXE files
