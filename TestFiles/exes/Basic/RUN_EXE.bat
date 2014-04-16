@@ -1,0 +1,1 @@
+FOR %%i in (%1) DO FOR %%j in (1,2,3,4,5,6,7,8,9,0) DO %%i_Basic%%j.exe < input.txt > compare%%i_%%j.txt
